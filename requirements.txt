@@ -1,5 +1,5 @@
 requests
 pandas
-base64
+
 json
 folium
